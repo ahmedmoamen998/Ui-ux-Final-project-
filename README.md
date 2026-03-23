@@ -143,33 +143,33 @@ Mobile App UI/UX Design Project
 
 ---
 
-## Complete Design Process Documentation
+## Figma Project Link
 
 <div align="center">
 
-**Professional UI/UX repository structure:**
- research/ User research & problem definition
- personas/ User personas & user journeys
- user-flows/ User flows & wireframes
- design-system/ Design system & components
- screens/ Final UI screens
- usability-testing/ Usability testing & iterations
- DESIGN-PROCESS.md Complete design methodology
- RESEARCH-FINDINGS.md Research insights & conclusions
+[![Open in Figma](https://img.shields.io/badge/Open%20in-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/board/FjjYiLKx7dkNWuEaa8gJtH/final-project?node-id=0-1&t=I8ovp23U1Rn5SSUE-1)
 
+**Explore the full Kemet Basket design board**  
+Wireframes, user flows, design process, and final UI screens in one place.
 
+[View Figma Project](https://www.figma.com/board/FjjYiLKx7dkNWuEaa8gJtH/final-project?node-id=0-1&t=I8ovp23U1Rn5SSUE-1)
 
 </div>
 
 ---
 
+## Complete Design Process Documentation
+
 <div align="center">
 
-<div style="background: linear-gradient(90deg, #E74C3C, #F39C12); padding: 20px; border-radius: 15px; color: white;">
+**Professional UI/UX repository structure:**
 
-<h2>Supporting Egypt's Economy & Solidarity Movement</h2>
-<p>Academic UI/UX Design Excellence • Made in Egypt</p>
-
-</div>
-
-</div>
+```bash
+research/                 # User research & problem definition
+personas/                 # User personas & user journeys
+user-flows/               # User flows & wireframes
+design-system/            # Design system & components
+screens/                  # Final UI screens
+usability-testing/        # Usability testing & iterations
+DESIGN-PROCESS.md         # Complete design methodology
+RESEARCH-FINDINGS.md      # Research insights & conclusions
