@@ -113,11 +113,11 @@ Mobile App UI/UX Design Project
 
 <table>
 <tr>
-<td align="center" width="20%"><b>Ahmed Moamen</b><br><small>Team Leader</small></td>
-<td align="center" width="20%"><b>Shahd Mohamed</b><br><small>Lead UI Designer</small></td>
-<td align="center" width="20%"><b>Merna Adel</b><br><small>UX Researcher</small></td>
-<td align="center" width="20%"><b>Fatma Elzhraa Rady</b><br><small>Prototyping Lead</small></td>
-<td align="center" width="20%"><b>Mona Mamdoh</b><br><small>Mobile UX Specialist</small></td>
+<td align="center" width="20%"><b>Ahmed Moamen</b><br></td>
+<td align="center" width="20%"><b>Shahd Mohamed</b><br></td>
+<td align="center" width="20%"><b>Merna Adel</b><br></td>
+<td align="center" width="20%"><b>Fatma Elzhraa Rady</b><br></td>
+<td align="center" width="20%"><b>Mona Mamdoh</b><br></td>
 </tr>
 </table>
 
